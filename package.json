@@ -1,0 +1,11 @@
+{
+	"name": "tst",
+	"description": "tst",
+	"author": "tst",
+	"version": "0.0.0",
+	"devDependencies": {},
+	"engine": "node >= 0.10.x",
+	"scripts": {
+		"install": "cd server && npm install"
+	}
+}
